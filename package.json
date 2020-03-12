@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-boilerplate",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "boilerplate",
+    "scaffold"
+  ],
+  "description": "The scaffold setup template to easy get up and running for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianorsouza/cra-template-boilerplate.git",
+    "directory": "packages/cra-template-boilerplate"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/adrianorsouza/cra-template-boilerplate/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "package": {
+    "dependencies": {
+      "prop-types": "latest",
+      "react-helmet": "latest",
+      "react-router-dom": "latest",
+      "uuid": "latest",
+      "node-sass": "latest",
+      "prettier": "latest"
+    },
+    "scripts": {
+      "format": "prettier --write \"**/*.{js,jsx,json,md}\""
+    }
+  }
+}
