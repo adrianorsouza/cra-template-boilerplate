@@ -1,6 +1,10 @@
 cra-template-boilerplate
 ========================
 
+## Usage
+
+    npx create-react-app my-app --template cra-template-boilerplate
+
 Create React App boilerplate with minimal configuration to easy get up and running with:
 
 - PropTypes
